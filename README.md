@@ -126,5 +126,5 @@ set ww=<,>,[,]
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
 
 ```
-
+![](image/editvimrc.gif)
 
