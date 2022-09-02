@@ -1,5 +1,4 @@
 ## vim-config-for-windows
-vim configurasi for windows
 
 Langkah awal untuk melakukan vim plug
 ###### Windows (PowerShell)
