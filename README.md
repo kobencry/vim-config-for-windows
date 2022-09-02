@@ -12,9 +12,7 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 ```
 ![](image/psvimplug.png)
 ###### untuk lebih lanjut lagi kunjungi github:
-```
-https://github.com/junegunn/vim-plug/edit/master/README.md
-```
+- [https://github.com/junegunn/vim-plug/](https://github.com/junegunn/vim-plug/)
 #### 2. buat file configurasi vim di path $HOME extensi _vimrc atau _gvimrc
 - buka vim ketik :echo $HOME disitulah file configurasi vim berada
 - ketik :e _gvimrc atau :e _vimrc
@@ -130,9 +128,9 @@ autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
 
 #### 4. Buka tab baru pada vim lalu pergi ke file _vimrc install plugin tersebut dengan cara:
 - ###### :PlugInstall
-#### Jika sudah terinstall gunakan plugin tersebut
+###### Jika sudah terinstall gunakan plugin tersebut
  - ###### :colorscheme base16-3024 
-#### untuk lebih lanjut tentang color base16 kunjungi:
+###### untuk lebih lanjut tentang color base16 kunjungi:
 - [https://github.com/chriskempson/base16-vim](https://github.com/chriskempson/base16-vim)
  - ###### :NERDTreeToggle
 
