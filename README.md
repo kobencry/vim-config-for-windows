@@ -18,6 +18,8 @@ https://github.com/junegunn/vim-plug/edit/master/README.md
 #### 2. buat file configurasi vim di path $HOME extensi _vimrc atau _gvimrc
 - buka vim ketik :echo $HOME disitulah file configurasi vim berada
 - ketik :e _gvimrc atau :e _vimrc
-![](image/gvimrc.gif)
+![](image/givimrc.gif)
+
+
 
 
