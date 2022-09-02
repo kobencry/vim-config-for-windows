@@ -128,9 +128,9 @@ autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
 
 #### 4. Buka tab baru pada vim lalu pergi ke file _vimrc install plugin tersebut dengan cara:
 - ###### :PlugInstall
-###### Jika sudah terinstall gunakan plugin tersebut
+- Jika sudah terinstall gunakan plugin tersebut
  - ###### :colorscheme base16-3024 
-###### untuk lebih lanjut tentang color base16 kunjungi:
+- untuk lebih lanjut tentang color base16 kunjungi:
 - [https://github.com/chriskempson/base16-vim](https://github.com/chriskempson/base16-vim)
  - ###### :NERDTreeToggle
 
