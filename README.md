@@ -20,7 +20,7 @@ https://github.com/junegunn/vim-plug/edit/master/README.md
 - ketik :e _gvimrc atau :e _vimrc
 ![](image/givimrc.gif)
 
-#### 3. salin sumber kode dibawah ini lalu tempelkan ke file _vimrc atau _gvimrc
+#### 3. salin sumber kode dibawah ini lalu tempelkan ke file _vimrc atau _gvimrc save file tersebut
 ```
 call plug#begin('~/vimfiles/plugged')
 " The default plugin directory will be as follows:
