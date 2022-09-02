@@ -61,7 +61,7 @@ filetype plugin indent on
 if has("gui_running")
   set guifont=Lucida_Console:h11
   " untuk menghilangkan toolbar
-  set guioptions-= T
+  set guioptions-=T
 endif
 
 " untuk popup text
@@ -109,11 +109,11 @@ set expandtab
 set fileformat=unix
 set filetype=python
 set ignorecase
-set inCsearch
+set incsearch
 set nocompatible
 set noswapfile
 set nowrap
-set shifwidth=2
+set shiftwidth=2
 set smartindent
 set smarttab
 set softtabstop=2
