@@ -133,4 +133,4 @@ autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
 - untuk lebih lanjut tentang color base16 kunjungi:
 - [https://github.com/chriskempson/base16-vim](https://github.com/chriskempson/base16-vim)
  - ###### :NERDTreeToggle
-
+![](image/pluginstall.gif)
