@@ -128,7 +128,7 @@ autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
 ```
 ![](image/editvimrc.gif)
 
-#### 4. install plugin tersebut dengan cara:
+#### 4. Buka tab baru pada vim lalu pergi ke file _vimrc install plugin tersebut dengan cara:
 - ###### :PlugInstall
 #### Jika sudah terinstall gunakan plugin tersebut
  - ###### :colorscheme base16-3024 
