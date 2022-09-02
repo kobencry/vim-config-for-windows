@@ -1,9 +1,9 @@
 ## vim-config-for-windows
 
 
-#Langkah awal untuk melakukan vim plug
+## Langkah awal untuk melakukan vim plug
 
-##1. buka terminal windows powershell, lalu copy suber kode dibawah ini:
+## 1. buka terminal windows powershell, lalu copy suber kode dibawah ini:
 ###### Windows (PowerShell)
 
 ```powershell
