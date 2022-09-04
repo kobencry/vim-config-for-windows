@@ -1,9 +1,9 @@
 ## vim-config-for-windows
-
+- Group vim indonesia: [https://t.me/VimID](https://t.me/VimID)
 
 #### Langkah awal untuk melakukan vim plug
 
-#### 1. buka terminal windows powershell, lalu copy sumber kode dibawah ini:
+#### 1. Buka terminal windows powershell, lalu copy sumber kode dibawah ini:
 ###### Windows (PowerShell)
 
 ```powershell
@@ -13,12 +13,12 @@ iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
 ![](image/psvimplug.png)
 ###### untuk lebih lanjut lagi kunjungi github:
 - [https://github.com/junegunn/vim-plug/](https://github.com/junegunn/vim-plug/)
-#### 2. buat file configurasi vim di path $HOME extensi _vimrc atau _gvimrc
+#### 2. Buat file configurasi vim di path $HOME extensi _vimrc atau _gvimrc
 - buka vim ketik :echo $HOME disitulah file configurasi vim berada
 - ketik :e _gvimrc atau :e _vimrc
 ![](image/givimrc.gif)
 
-#### 3. salin sumber kode dibawah ini lalu tempelkan ke file _vimrc atau _gvimrc save file tersebut
+#### 3. Salin sumber kode dibawah ini lalu tempelkan ke file _vimrc atau _gvimrc save file tersebut
 ```
 call plug#begin('~/vimfiles/plugged')
 " The default plugin directory will be as follows:
